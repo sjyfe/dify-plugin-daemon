@@ -108,7 +108,7 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/panjf2000/ants v1.3.0
+	github.com/panjf2000/ants/v2 v2.0.0
 	github.com/panjf2000/gnet/v2 v2.5.5
 	github.com/pelletier/go-toml/v2 v2.2.2 // indirect
 	github.com/shopspring/decimal v1.4.0
